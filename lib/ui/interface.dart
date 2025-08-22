@@ -48,7 +48,7 @@ class _NumberConverterInterfaceState extends State<NumberConverterInterface> {
         return;
       }
 
-      if (!Utils.isValidLength(inputValue, _selectedSystem)) {
+      if (!Utils.isValidLength(inputValue, _selectedSystem)) { 
         _errorMessage = 'Número demasiado largo';
         _clearOutputs();
         return;

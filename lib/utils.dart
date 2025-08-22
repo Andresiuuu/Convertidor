@@ -21,11 +21,11 @@ class Utils {
       case NumberSystem.decimal:
         return '';
       case NumberSystem.binary:
-        return '0b';
+        return '';
       case NumberSystem.octal:
-        return '0o';
+        return '';
       case NumberSystem.hexadecimal:
-        return '0x';
+        return '';
     }
   }
 
