@@ -13,7 +13,7 @@ Una aplicación Flutter que permite convertir números entre diferentes sistemas
 
                                                     Imagenes
 
-                                                    ![](image-1.png)
+                                                    ![Captura de pantalla](image-1.png)
                                                     
                                                     ![](image-2.png)
 
