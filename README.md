@@ -4,7 +4,7 @@ Una aplicación Flutter que permite convertir números entre diferentes sistemas
 
 ## Imagenes
 ![](/Imagenes/image-1.png)
-![](/Imagenes/image-2.png)
+![](/Imagenes/image-4.jpg)
 ![](/Imagenes/image-3.png)
 
 ## Características
